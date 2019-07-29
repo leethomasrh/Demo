@@ -7,6 +7,6 @@ workstation-0071.rhpds.opentlc.com
 [groupb]
 172.25.250.11
 
-[opentlc:children]
+[demo:children]
 groupa
 groupb
