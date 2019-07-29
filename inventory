@@ -1,0 +1,12 @@
+[bastion]
+workstation-0071.rhpds.opentlc.com
+
+[groupa]
+172.25.250.10
+
+[groupb]
+172.25.250.11
+
+[opentlc:children]
+groupa
+groupb
